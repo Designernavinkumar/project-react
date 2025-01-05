@@ -3,7 +3,6 @@ import React from 'react';
 class Taggle extends React.Component
 {
     constructor(){
-
     }
     render(){
         return(
@@ -12,8 +11,6 @@ class Taggle extends React.Component
             </div>
         )
     }
-    
-
 }
 
-export default Taggle ;
+export default Taggle;
