@@ -4,11 +4,11 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 // import App from './App'
 import ShowTime from './Componets/ShowTime';
-
+import Toggle from './Componets/ToggleButton';
 const root = ReactDOM.createRoot(document.getElementById('root'));
   root.render(
     <div>
-         <ShowTime />
+         <Toggle />
     </div>
   );
 // If you want to start measuring performance in your app, pass a function
